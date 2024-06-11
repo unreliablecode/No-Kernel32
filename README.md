@@ -1,4 +1,4 @@
-# Detours Hooking Library
+# NoKernel32 - Basic
 
 This repository contains a C++ library that uses Microsoft Detours to hook `GetModuleHandleA` and `LoadLibraryA` functions. The library does nothing if the loaded module name contains "RAT".
 
